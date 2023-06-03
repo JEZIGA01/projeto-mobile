@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View, Image, StyleSheet, TextInput, TouchableOpacity } from 'react-native';
 import { ImageBackground } from 'react-native';
 
-export default function History() {
+export function History() {
   return (
     <ImageBackground source={require('../Images/bgNGT.png')} style={styles.container} resizeMode="cover">
       <View style={styles.content}>

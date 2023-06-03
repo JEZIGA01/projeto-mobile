@@ -9,7 +9,8 @@
       "categoria": "Manutenção",
       "item": "Ar condicionado",
       "obs": "O ar condicionado não está funcionando corretamente",
-      "atualizacao": "Um técnico foi chamado para verificar o problema"
+      "atualizacao": "Um técnico foi chamado para verificar o problema",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "2",
@@ -20,7 +21,7 @@
       "categoria": "Limpeza",
       "item": "Carpete",
       "obs": "O carpete está sujo e precisa de limpeza",
-      "atualizacao": "A equipe de limpeza foi agendada para realizar a limpeza do carpete"
+      "atualizacao": "A equipe de limpeza foi agendada para realizar a limpeza do carpete" 
     },
     {
       "id": "3",
