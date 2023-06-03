@@ -17,11 +17,12 @@
       "criado_em": "2023-06-01T08:30:00Z",
       "ultima_atualizacao": "2023-06-02T14:45:00Z",
       "bloco": "Bloco B",
-      "local": "Sala 205",
+      "local": "Lab 07",
       "categoria": "Limpeza",
-      "item": "Carpete",
-      "obs": "O carpete está sujo e precisa de limpeza",
-      "atualizacao": "A equipe de limpeza foi agendada para realizar a limpeza do carpete" 
+      "item": "Chão",
+      "obs": "O chão do lab está sujo e precisa de limpeza",
+      "atualizacao": "A equipe de limpeza foi agendada para realizar a limpeza do carpete" ,
+      "cover": "https://www.univates.br/eventos//media/alugue/laboratorios_informatica/labinfo_01.jpg"
     },
     {
       "id": "3",
@@ -32,7 +33,8 @@
       "categoria": "Elétrica",
       "item": "Tomada",
       "obs": "Uma das tomadas não está funcionando",
-      "atualizacao": "Um eletricista foi designado para consertar a tomada"
+      "atualizacao": "Um eletricista foi designado para consertar a tomada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "4",
@@ -43,7 +45,8 @@
       "categoria": "Móveis",
       "item": "Cadeira",
       "obs": "A cadeira está quebrada e precisa de reparo",
-      "atualizacao": "Uma nova cadeira foi encomendada para substituir a quebrada"
+      "atualizacao": "Uma nova cadeira foi encomendada para substituir a quebrada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "5",
@@ -54,7 +57,8 @@
       "categoria": "Segurança",
       "item": "Câmera de segurança",
       "obs": "Uma das câmeras de segurança não está funcionando",
-      "atualizacao": "Um técnico de segurança foi chamado para verificar e consertar a câmera"
+      "atualizacao": "Um técnico de segurança foi chamado para verificar e consertar a câmera",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "6",
@@ -65,7 +69,8 @@
       "categoria": "Manutenção",
       "item": "Vazamento de água",
       "obs": "Há um vazamento de água na pia",
-      "atualizacao": "Um encanador foi chamado para consertar o vazamento"
+      "atualizacao": "Um encanador foi chamado para consertar o vazamento",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "7",
@@ -76,7 +81,8 @@
       "categoria": "Limpeza",
       "item": "Janela",
       "obs": "A janela está suja e precisa ser limpa",
-      "atualizacao": "A equipe de limpeza realizará a limpeza da janela"
+      "atualizacao": "A equipe de limpeza realizará a limpeza da janela",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "8",
@@ -87,7 +93,8 @@
       "categoria": "Elétrica",
       "item": "Interruptor",
       "obs": "O interruptor da luz está com mau contato",
-      "atualizacao": "Um eletricista foi designado para trocar o interruptor"
+      "atualizacao": "Um eletricista foi designado para trocar o interruptor",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "9",
@@ -98,7 +105,8 @@
       "categoria": "Móveis",
       "item": "Mesa",
       "obs": "A mesa está com uma perna quebrada",
-      "atualizacao": "Uma nova mesa será providenciada para substituir a quebrada"
+      "atualizacao": "Uma nova mesa será providenciada para substituir a quebrada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "10",
@@ -109,7 +117,8 @@
       "categoria": "Segurança",
       "item": "Alarme",
       "obs": "O alarme não está funcionando corretamente",
-      "atualizacao": "Um técnico de segurança foi chamado para verificar e reparar o alarme"
+      "atualizacao": "Um técnico de segurança foi chamado para verificar e reparar o alarme",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "11",
@@ -120,7 +129,8 @@
       "categoria": "Manutenção",
       "item": "Pintura",
       "obs": "A parede precisa ser repintada",
-      "atualizacao": "A equipe de manutenção realizará a pintura da parede"
+      "atualizacao": "A equipe de manutenção realizará a pintura da parede",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "12",
@@ -131,7 +141,8 @@
       "categoria": "Limpeza",
       "item": "Tapete",
       "obs": "O tapete está sujo e precisa de limpeza",
-      "atualizacao": "A equipe de limpeza agendará a limpeza do tapete"
+      "atualizacao": "A equipe de limpeza agendará a limpeza do tapete",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "13",
@@ -142,7 +153,8 @@
       "categoria": "Elétrica",
       "item": "Lâmpada",
       "obs": "A lâmpada está queimada e precisa ser trocada",
-      "atualizacao": "Um eletricista trocará a lâmpada queimada"
+      "atualizacao": "Um eletricista trocará a lâmpada queimada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "14",
@@ -153,7 +165,8 @@
       "categoria": "Móveis",
       "item": "Armário",
       "obs": "A porta do armário está emperrada",
-      "atualizacao": "Um técnico de manutenção irá reparar a porta do armário"
+      "atualizacao": "Um técnico de manutenção irá reparar a porta do armário",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "15",
@@ -164,7 +177,8 @@
       "categoria": "Segurança",
       "item": "Cerca de segurança",
       "obs": "A cerca de segurança está danificada",
-      "atualizacao": "Um técnico de segurança fará o reparo na cerca danificada"
+      "atualizacao": "Um técnico de segurança fará o reparo na cerca danificada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "16",
@@ -175,7 +189,8 @@
       "categoria": "Manutenção",
       "item": "Ar condicionado",
       "obs": "O ar condicionado está fazendo barulho estranho",
-      "atualizacao": "Um técnico de manutenção foi chamado para verificar o problema no ar condicionado"
+      "atualizacao": "Um técnico de manutenção foi chamado para verificar o problema no ar condicionado",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "17",
@@ -186,7 +201,8 @@
       "categoria": "Limpeza",
       "item": "Cortina",
       "obs": "A cortina está suja e precisa de limpeza",
-      "atualizacao": "A equipe de limpeza realizará a limpeza da cortina"
+      "atualizacao": "A equipe de limpeza realizará a limpeza da cortina",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "18",
@@ -197,7 +213,8 @@
       "categoria": "Elétrica",
       "item": "Fiação",
       "obs": "Há um problema na fiação elétrica da sala",
-      "atualizacao": "Um eletricista fará a verificação e reparo na fiação elétrica"
+      "atualizacao": "Um eletricista fará a verificação e reparo na fiação elétrica",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "19",
@@ -208,7 +225,8 @@
       "categoria": "Móveis",
       "item": "Escrivaninha",
       "obs": "A escrivaninha está quebrada",
-      "atualizacao": "Uma nova escrivaninha será providenciada para substituir a quebrada"
+      "atualizacao": "Uma nova escrivaninha será providenciada para substituir a quebrada",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "20",
@@ -219,7 +237,8 @@
       "categoria": "Segurança",
       "item": "Controle de acesso",
       "obs": "O controle de acesso não está funcionando corretamente",
-      "atualizacao": "Um técnico de segurança será chamado para verificar e reparar o controle de acesso"
+      "atualizacao": "Um técnico de segurança será chamado para verificar e reparar o controle de acesso",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "21",
@@ -230,7 +249,8 @@
       "categoria": "Manutenção",
       "item": "Vazamento de gás",
       "obs": "Há um vazamento de gás na cozinha",
-      "atualizacao": "Um técnico especializado irá reparar o vazamento de gás"
+      "atualizacao": "Um técnico especializado irá reparar o vazamento de gás",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "22",
@@ -241,7 +261,8 @@
       "categoria": "Limpeza",
       "item": "Piso",
       "obs": "O piso está sujo e precisa de limpeza",
-      "atualizacao": "A equipe de limpeza realizará a limpeza do piso"
+      "atualizacao": "A equipe de limpeza realizará a limpeza do piso",
+      "cover": "https://media-cdn.tripadvisor.com/media/photo-s/0a/3b/6a/5a/ar-condicionado-com-direcionad.jpg"
     },
     {
       "id": "23",
@@ -252,7 +273,8 @@
       "categoria": "Elétrica",
       "item": "Disjuntor",
       "obs": "O disjuntor está desarmado e não liga a energia",
-      "atualizacao": "Um eletricista fará a verificação e religamento do disjuntor"
+      "atualizacao": "Um eletricista fará a verificação e religamento do disjuntor",
+      "cover": "https://i.redd.it/sswgic4n3vl91.jpg"
     },
     {
       "id": "24",

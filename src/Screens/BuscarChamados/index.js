@@ -61,11 +61,11 @@ export function BuscarChamados() {
         type: "spring",
         duration: 650
       }}
-      >E fique informado</MotiText>
+      >E fique Informado 🦜</MotiText>
 
       <View style={styles.form}>
         <TextInput
-          placeholder="Digite o nome da comida..."
+          placeholder="Digite o nome do chamado..."
           style={styles.input}
           value={inputValue}
           onChangeText={(text) => setInputValue(text)}
